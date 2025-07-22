@@ -1,6 +1,5 @@
 import { EventEmitter } from 'fbemitter';
 import { TextDecoder, TextEncoder } from 'text-encoding';
-import Document from './DOM/Document';
 
 import './performance';
 
